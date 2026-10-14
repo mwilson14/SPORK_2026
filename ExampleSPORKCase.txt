@@ -1,0 +1,6 @@
+ID,Site,Year,Month,Day,UTCmonth,UTCday,Hour,Minute,Duration,Z1,Z2,Cal,Big,FFD,Z0C,Storm
+KLOT,KLOT,2026,3,10,3,10,23,0,2.0,45,50,0.0,300,180,3319,0.0,
+KLOT,KLOT,2026,3,10,3,10,23,0,2.0,45,50,0.0,300,180,3319,0.0,
+
+
+
